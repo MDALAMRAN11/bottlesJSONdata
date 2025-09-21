@@ -11,7 +11,7 @@
     "expirationDate": "2025-12-31",
     "inStock": 120,
     "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_CocaCola_Bottle.jpg"
+    "image": "https://th.bing.com/th/id/R.af9603a7cd432ace6d92f069a3527068?rik=f3Xz0T8orJur1A&pid=ImgRaw&r=0"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "expirationDate": "2025-11-30",
     "inStock": 100,
     "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Pepsi_Bottle.jpg"
+    "image": "https://images.unsplash.com/photo-1629203849820-fdd70d49c38e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVwc2l8ZW58MHx8MHx8&w=1000&q=80"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
     "expirationDate": "2025-10-15",
     "inStock": 150,
     "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Sprite_Bottle.jpg"
+    "image": "https://beverages2u.com/wp-content/uploads/2022/09/BCF7081A-3889-4B05-9F90-1158F3272C99.png"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
     "expirationDate": "2025-09-30",
     "inStock": 130,
     "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Fanta_Bottle.jpg"
+    "image": "https://www.pngall.com/wp-content/uploads/15/Fanta-PNG-Photo.png"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "expirationDate": "2025-12-20",
     "inStock": 90,
     "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_MountainDew_Bottle.jpg"
+    "image": "https://i5.walmartimages.com/asr/26461fe9-5506-4dea-8683-c711379eef60_1.e41d670fc34edbe90f5adf505de8b4e8.jpeg"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     "expirationDate": "2026-03-31",
     "inStock": 200,
     "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Aquafina_Bottle.jpg"
+    "image": "https://i5.walmartimages.com/asr/ad640e6b-c5b3-447e-bbc5-08468341a404.c161c5c5c464ff340f8340ac171b331a.jpeg"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
     "expirationDate": "2026-06-30",
     "inStock": 50,
     "origin": "France",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Evian_Bottle.jpg"
+    "image": "https://danone-evian-com-prod.s3-eu-west-1.amazonaws.com/origin/testimonial.jpg"
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
     "expirationDate": "2026-01-31",
     "inStock": 180,
     "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Dasani_Bottle.jpg"
+    "image": "https://images.thdstatic.com/productImages/2166329b-bd7a-4323-b3ca-af14730859dc/svn/dasani-water-217886-64_1000.jpg"
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
     "expirationDate": "2025-08-31",
     "inStock": 70,
     "origin": "Austria",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_RedBull_Can.jpg"
+    "image": "https://getwallpapers.com/wallpaper/full/c/c/2/1051513-red-bull-wallpaper-1920x1080-for-ios.jpg"
   },
   {
     "id": 10,
@@ -137,146 +137,6 @@
     "expirationDate": "2025-09-15",
     "inStock": 60,
     "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Monster_Can.jpg"
+    "image": "https://selvastoreuk.com/wp-content/uploads/2020/08/5060166690687.jpg"
   },
-  {
-    "id": 11,
-    "name": "Lipton Ice Tea",
-    "brand": "Lipton",
-    "volume_ml": 400,
-    "type": "Tea",
-    "flavor": "Peach",
-    "isCarbonated": false,
-    "price": 1.8,
-    "expirationDate": "2025-07-31",
-    "inStock": 90,
-    "origin": "UK",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_LiptonIceTea_Bottle.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Nestea",
-    "brand": "Nestlé",
-    "volume_ml": 500,
-    "type": "Tea",
-    "flavor": "Lemon",
-    "isCarbonated": false,
-    "price": 1.7,
-    "expirationDate": "2025-08-30",
-    "inStock": 80,
-    "origin": "Switzerland",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Nestea_Bottle.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Pepsi Max",
-    "brand": "PepsiCo",
-    "volume_ml": 500,
-    "type": "Soda",
-    "flavor": "Cola",
-    "isCarbonated": true,
-    "price": 1.5,
-    "expirationDate": "2025-10-31",
-    "inStock": 100,
-    "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_PepsiMax_Bottle.jpg"
-  },
-  {
-    "id": 14,
-    "name": "7 Up",
-    "brand": "PepsiCo",
-    "volume_ml": 330,
-    "type": "Soda",
-    "flavor": "Lemon-Lime",
-    "isCarbonated": true,
-    "price": 1.2,
-    "expirationDate": "2025-09-15",
-    "inStock": 140,
-    "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_7Up_Bottle.jpg"
-  },
-  {
-    "id": 15,
-    "name": "Dr Pepper",
-    "brand": "Keurig Dr Pepper",
-    "volume_ml": 500,
-    "type": "Soda",
-    "flavor": "Dr Pepper",
-    "isCarbonated": true,
-    "price": 1.6,
-    "expirationDate": "2025-11-30",
-    "inStock": 110,
-    "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_DrPepper_Bottle.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Voss",
-    "brand": "Voss",
-    "volume_ml": 375,
-    "type": "Water",
-    "flavor": "Natural",
-    "isCarbonated": false,
-    "price": 2.8,
-    "expirationDate": "2026-02-28",
-    "inStock": 40,
-    "origin": "Norway",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Voss_Bottle.jpg"
-  },
-  {
-    "id": 17,
-    "name": "Smartwater",
-    "brand": "Coca-Cola",
-    "volume_ml": 600,
-    "type": "Water",
-    "flavor": "Vapor Distilled",
-    "isCarbonated": false,
-    "price": 2.2,
-    "expirationDate": "2026-03-31",
-    "inStock": 60,
-    "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Smartwater_Bottle.jpg"
-  },
-  {
-    "id": 18,
-    "name": "Gatorade",
-    "brand": "PepsiCo",
-    "volume_ml": 500,
-    "type": "Sports Drink",
-    "flavor": "Lemon-Lime",
-    "isCarbonated": false,
-    "price": 1.9,
-    "expirationDate": "2025-12-31",
-    "inStock": 90,
-    "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Gatorade_Bottle.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Powerade",
-    "brand": "Coca-Cola",
-    "volume_ml": 500,
-    "type": "Sports Drink",
-    "flavor": "Orange",
-    "isCarbonated": false,
-    "price": 1.8,
-    "expirationDate": "2025-12-15",
-    "inStock": 85,
-    "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_Powerade_Bottle.jpg"
-  },
-  {
-    "id": 20,
-    "name": "Arizona Green Tea",
-    "brand": "Arizona Beverage",
-    "volume_ml": 680,
-    "type": "Tea",
-    "flavor": "Green Tea",
-    "isCarbonated": false,
-    "price": 2.0,
-    "expirationDate": "2025-11-30",
-    "inStock": 70,
-    "origin": "USA",
-    "image": "https://www.packworld.com/sites/default/files/styles/hero/public/2022-11/2022_ArizonaGreenTea_Bottle.jpg"
-  }
 ]
